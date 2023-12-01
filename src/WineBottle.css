@@ -1,0 +1,11 @@
+.WineBottle{
+  border-radius: 25px;
+  border: 10px solid #AD8B73;
+  max-width: 50%;
+  margin: auto;
+  font-family: Garamond, serif;
+  background-color: #CEAB93;
+  opacity: 1.0;
+  background-image: radial-gradient( ellipse farthest-corner at 20px 20px , #AD8B73, #AD8B73 50%, #CEAB93 50%);
+  background-size: 20px 20px;
+}
